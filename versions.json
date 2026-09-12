@@ -3,4 +3,84 @@
     "script": "pc_addictions",
     "version": "1.0.1"
   },
+  {
+    "script": "pc_chirp",
+    "version": "1.0.0"
+  },
+  {
+    "script": "pc_autopropad",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_cellchat",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_pods",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_smartglasses",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_ios_lib",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_pausemenu",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_vehicecontrols",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_drugphone",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_stores",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_work",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_work_pos",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_simple",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_rideshare",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_fightmore",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_weaponsPlus",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_3dprinter",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_snatch",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_baitcar",
+    "version": "1.0.1"
+  },
+  {
+    "script": "pc_",
+    "version": "1.0.1"
+  }
 ]
