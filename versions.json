@@ -124,6 +124,12 @@
             "Updated to my new bridge"
         ]
     },
+    "unfazed_bridge": {
+        "version": "1.0.0",
+        "notes": [
+            "New bridge for all my scripts"
+        ]
+    },
     "pc_": {
         "version": "1.0.1",
         "notes": [
