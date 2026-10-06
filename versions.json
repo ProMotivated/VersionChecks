@@ -1,4 +1,4 @@
-[
+{
   {
     "script": "pc_addictions",
     "version": "1.0.1"
@@ -10,6 +10,11 @@
   {
     "script": "pc_autopropad",
     "version": "1.0.1"
+    "notes": [
+      "Updated new NUI",
+      "1.0.0",
+      "Release"
+    ]
   },
   {
     "script": "pc_cellchat",
@@ -83,4 +88,4 @@
     "script": "pc_",
     "version": "1.0.1"
   }
-]
+  }
