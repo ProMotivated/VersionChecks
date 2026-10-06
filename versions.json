@@ -1,91 +1,133 @@
 {
-  {
-    "script": "pc_addictions",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_chirp",
-    "version": "1.0.0"
-  },
-  {
-    "script": "pc_autopropad",
-    "version": "1.0.1"
-    "notes": [
-      "Updated new NUI",
-      "1.0.0",
-      "Release"
-    ]
-  },
-  {
-    "script": "pc_cellchat",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_pods",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_smartglasses",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_ios_lib",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_pausemenu",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_vehicecontrols",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_drugphone",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_stores",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_work",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_work_pos",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_simple",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_rideshare",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_fightmore",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_weaponsPlus",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_3dprinter",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_snatch",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_baitcar",
-    "version": "1.0.1"
-  },
-  {
-    "script": "pc_",
-    "version": "1.0.1"
-  }
-  }
+    "pc_addictions": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge",
+            "1.0.0",
+            "Initial release"
+        ]
+    },
+    "pc_chirp": {
+        "version": "1.0.0",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_autopropad": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge",
+            "Updated new NUI",
+            "1.0.0",
+            "Release"
+        ]
+    },
+    "pc_cellchat": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_pods": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_smartglasses": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_ios_lib": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_pausemenu": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_vehicecontrols": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_drugphone": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_stores": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_work": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_work_pos": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_simple": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_rideshare": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_fightmore": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_weaponsPlus": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_3dprinter": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_snatch": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_baitcar": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    },
+    "pc_": {
+        "version": "1.0.1",
+        "notes": [
+            "Updated to my new bridge"
+        ]
+    }
+}
